@@ -1,0 +1,11 @@
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\upb.tabd.broker.dll.config
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\upb.tabd.broker.dll
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\upb.tabd.broker.pdb
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\EntityFramework.dll
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\EntityFramework.xml
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\obj\Debug\upb.tabd.broker.csprojResolveAssemblyReference.cache
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\obj\Debug\upb.tabd.broker.csproj.CoreCompileInputs.cache
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\obj\Debug\upb.tabd.broker.dll
+D:\Users\marte\source\repos\MascotasWEB\upb.tabd.broker\obj\Debug\upb.tabd.broker.pdb
